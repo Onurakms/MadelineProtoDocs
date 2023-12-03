@@ -345,6 +345,11 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.noAppUpdate.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.passportConfig.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.passportConfigNotModified.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.peerColorOption.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.peerColorProfileSet.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.peerColorSet.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.peerColors.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.peerColorsNotModified.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.premiumPromo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.promoData.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/help.promoDataEmpty.html</loc></url>
@@ -608,6 +613,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionGiftCode.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionGiftPremium.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionGiveawayLaunch.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionGiveawayResults.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionGroupCall.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionGroupCallScheduled.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionHistoryClear.html</loc></url>
@@ -623,7 +629,6 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionSetChatTheme.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionSetChatWallPaper.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionSetMessagesTTL.html</loc></url>
-<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionSetSameChatWallPaper.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionSuggestProfilePhoto.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionTopicCreate.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageActionTopicEdit.html</loc></url>
@@ -653,7 +658,6 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageExtendedMedia.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageExtendedMediaPreview.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageFwdHeader.html</loc></url>
-<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageInteractionCounters.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageMediaContact.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageMediaDice.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/messageMediaDocument.html</loc></url>
@@ -821,6 +825,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/peerBlocked.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/peerChannel.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/peerChat.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/peerColor.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/peerLocated.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/peerNotifySettings.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/peerSelfLocated.html</loc></url>
@@ -866,6 +871,8 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/pollResults.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/popularContact.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/postAddress.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/postInteractionCountersMessage.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/postInteractionCountersStory.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/premium.boostsList.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/premium.boostsStatus.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/premium.myBoosts.html</loc></url>
@@ -892,6 +899,8 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/privacyValueDisallowChatParticipants.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/privacyValueDisallowContacts.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/privacyValueDisallowUsers.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/publicForwardMessage.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/publicForwardStory.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/reactionCount.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/reactionCustomEmoji.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/reactionEmoji.html</loc></url>
@@ -981,6 +990,8 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/stats.broadcastStats.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/stats.megagroupStats.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/stats.messageStats.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/stats.publicForwards.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/stats.storyStats.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/statsAbsValueAndPrev.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/statsDateRangeDays.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/statsGraph.html</loc></url>
@@ -1016,6 +1027,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/stories.storyViews.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/stories.storyViewsList.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/storiesStealthMode.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/storyFwdHeader.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/storyItem.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/storyItemDeleted.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/storyItemSkipped.html</loc></url>
@@ -1054,6 +1066,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateAttachMenuBots.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateAutoSaveSettings.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateBotCallbackQuery.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateBotChatBoost.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateBotChatInviteRequester.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateBotCommands.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateBotInlineQuery.html</loc></url>
@@ -1074,6 +1087,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateChannelReadMessagesContents.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateChannelTooLong.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateChannelUserTyping.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateChannelViewForumAsMessages.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateChannelWebPage.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateChat.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updateChatDefaultBannedRights.html</loc></url>
@@ -1128,6 +1142,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updatePeerHistoryTTL.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updatePeerLocated.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updatePeerSettings.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updatePeerWallpaper.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updatePendingJoinRequests.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updatePhoneCall.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/constructors/updatePhoneCallSignalingData.html</loc></url>
@@ -1372,6 +1387,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.exportMessageLink.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.getAdminLog.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.getAdminedPublicChannels.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.getChannelRecommendations.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.getChannels.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.getForumTopics.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.getForumTopicsByID.html</loc></url>
@@ -1404,6 +1420,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.toggleSignatures.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.toggleSlowMode.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.toggleUsername.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.toggleViewForumAsMessages.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.updateColor.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.updatePinnedForumTopic.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/channels.updateUsername.html</loc></url>
@@ -1458,6 +1475,8 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getInviteText.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getNearestDc.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getPassportConfig.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getPeerColors.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getPeerProfileColors.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getPremiumPromo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getPromoData.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/help.getRecentMeUrls.html</loc></url>
@@ -1620,6 +1639,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.saveRecentSticker.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.search.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.searchCustomEmoji.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.searchEmojiStickerSets.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.searchGlobal.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.searchSentMedia.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/messages.searchStickerSets.html</loc></url>
@@ -1724,10 +1744,13 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/premium.getBoostsList.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/premium.getBoostsStatus.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/premium.getMyBoosts.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/premium.getUserBoosts.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stats.getBroadcastStats.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stats.getMegagroupStats.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stats.getMessagePublicForwards.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stats.getMessageStats.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/stats.getStoryPublicForwards.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/methods/stats.getStoryStats.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stats.loadAsyncGraph.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stickers.addStickerToSet.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/methods/stickers.changeSticker.html</loc></url>
@@ -1939,7 +1962,6 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/MessageEntity.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/MessageExtendedMedia.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/MessageFwdHeader.html</loc></url>
-<url><loc>https://docs.madelineproto.xyz/API_docs/types/MessageInteractionCounters.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/MessageMedia.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/MessagePeerReaction.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/MessagePeerVote.html</loc></url>
@@ -1969,6 +1991,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PaymentSavedCredentials.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/Peer.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PeerBlocked.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/PeerColor.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PeerLocated.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PeerNotifySettings.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PeerSettings.html</loc></url>
@@ -1985,12 +2008,14 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PollResults.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PopularContact.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PostAddress.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/PostInteractionCounters.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PremiumGiftCodeOption.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PremiumGiftOption.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PremiumSubscriptionOption.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PrepaidGiveaway.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PrivacyKey.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/PrivacyRule.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/PublicForward.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/Reaction.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/ReactionCount.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/ReadParticipantDate.html</loc></url>
@@ -2034,6 +2059,7 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/StickerSet.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/StickerSetCovered.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/StoriesStealthMode.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/StoryFwdHeader.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/StoryItem.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/StoryView.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/StoryViews.html</loc></url>
@@ -2115,6 +2141,9 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/help.DeepLinkInfo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/help.InviteText.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/help.PassportConfig.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/help.PeerColorOption.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/help.PeerColorSet.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/help.PeerColors.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/help.PremiumPromo.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/help.PromoData.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/help.RecentMeUrls.html</loc></url>
@@ -2203,6 +2232,8 @@
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/stats.BroadcastStats.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/stats.MegagroupStats.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/stats.MessageStats.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/stats.PublicForwards.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/API_docs/types/stats.StoryStats.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/stickers.SuggestedShortName.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/storage.FileType.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/API_docs/types/stories.AllStories.html</loc></url>
@@ -2354,6 +2385,7 @@
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Message/Entities/CustomEmoji.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Message/Entities/Email.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Message/Entities/Hashtag.html</loc></url>
+<url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Message/Entities/InputMentionName.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Message/Entities/Italic.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Message/Entities/Mention.html</loc></url>
 <url><loc>https://docs.madelineproto.xyz/PHP/danog/MadelineProto/EventHandler/Message/Entities/MentionName.html</loc></url>
